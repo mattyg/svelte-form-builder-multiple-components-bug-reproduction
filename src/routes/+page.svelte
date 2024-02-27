@@ -5,12 +5,12 @@
 
 <FormBuilder
 	options={{
-		view: "build",
+		view: "render",
 	}} 
 />
 
 <FormBuilder
 	options={{
-		view: "build",
+		view: "render",
 	}}
 />

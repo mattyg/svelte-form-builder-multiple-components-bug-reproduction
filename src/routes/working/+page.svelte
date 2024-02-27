@@ -5,6 +5,6 @@
 
 <FormBuilder
 	options={{
-		view: "build",
+		view: "render",
 	}}
 />
